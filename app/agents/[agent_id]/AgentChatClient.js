@@ -1,7 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
-import axios from "axios";
+
 
 const STORAGE_KEY = "muapi_key";
 
